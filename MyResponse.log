@@ -1,0 +1,38 @@
+HTTP/1.1 200 OK
+Date: Tue, 09 May 2023 20:18:37 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 573
+Connection: keep-alive
+ETag: W/"23d-Zk6wI1VnX2eO5ntjPdU8Q5uN2nU"
+set-cookie: sails.sid=s%3AVccFryj9snDtkBUMYDg8BoRyYm7zP5ss.CVwOL%2Fm91IUStctRuQl8702lC1LwNhYww%2BNhkpzrOl4; Path=/; HttpOnly
+
+{
+    "args": {
+        
+    },
+    "data": {
+        "name": "MadhuMeetha"
+    },
+    "files": {
+        
+    },
+    "form": {
+        
+    },
+    "headers": {
+        "x-forwarded-proto": "https",
+        "x-forwarded-port": "443",
+        "host": "postman-echo.com",
+        "x-amzn-trace-id": "Root=1-645aaa9d-20cce43544d3bfb50fc39f35",
+        "content-length": "22",
+        "somename": "abhishek",
+        "accept": "*/*",
+        "content-type": "application/json",
+        "user-agent": "Apache-HttpClient/4.5.13 (Java/11.0.16)",
+        "accept-encoding": "gzip,deflate"
+    },
+    "json": {
+        "name": "MadhuMeetha"
+    },
+    "url": "https://postman-echo.com/post"
+}
